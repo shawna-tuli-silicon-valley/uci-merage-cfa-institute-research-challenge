@@ -1,2 +1,1 @@
-# uci-cfa-equity-research-challenge
-2017
+# CFA Equity Research Challenge
