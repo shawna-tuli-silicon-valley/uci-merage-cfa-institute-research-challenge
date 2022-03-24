@@ -1,4 +1,4 @@
-# CFA Equity Research Challenge
+# CFA Equity Research Challenge 🏦💲
 
 <img width="1256" alt="Screen Shot 2022-03-24 at 11 22 22 AM" src="https://user-images.githubusercontent.com/19508013/159986020-14aeb1e9-0d92-43c6-9e4f-86a2d1bfdf29.png">
 <img width="1256" alt="Screen Shot 2022-03-24 at 11 23 35 AM" src="https://user-images.githubusercontent.com/19508013/159986039-3ceaf2f1-6760-4ecb-8b8f-a821b56816d0.png">
